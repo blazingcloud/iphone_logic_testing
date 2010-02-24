@@ -1,0 +1,213 @@
+TLogicTests
+v7
+r0
+t288225022.958052
+cCheck dependencies
+cProcessInfoPlistFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/Info.plist LogicTests-Info.plist
+cCompileC build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcTests.o /Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalculator.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests normal i386
+cGenerateDSYMFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest.dSYM /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests
+cPhaseScriptExecution "Run Script" /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Script-11152A65112B4D4600C99419.sh
+cTouch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B79C36A00000000000000EE
+t1266271082
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks/SenTestingKit.framework/Headers/SenTestingKit.h
+c000000004B2B61D100000000000007E1
+t1261134289
+s2017
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.h
+c000000004B7B0A1000000000000000EF
+t1266354704
+s239
+i<UIKit/UIKit.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m
+c000000004B7B0A1000000000000005B8
+t1266354704
+s1464
+i"TipCalcViewController.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.h
+c000000004B7DBE350000000000000173
+t1266531893
+s371
+i<Foundation/Foundation.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m
+c000000004B7DBE5300000000000001A6
+t1266531923
+s422
+i"TipCalculator.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/TipCalcTests.h
+c000000004B7B2C4C0000000000000208
+t1266363468
+s520
+i<SenTestingKit/SenTestingKit.h>
+i<UIKit/UIKit.h>
+i"TipCalculator.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m
+c000000004B7DBF7A000000000000052D
+t1266532218
+s1325
+i"TipCalcTests.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest
+t1266532222
+s136
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest.dSYM
+t1266532222
+s102
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/Info.plist
+t1266530684
+s448
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests
+t1266532222
+s19556
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/LogicTests.LinkFileList
+c000000004B7DB97C0000000000000103
+t1266530684
+s259
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcTests.o
+t1266532218
+s14772
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcViewController.o
+t2
+s0
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalculator.o
+t1266531927
+s6128
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Script-11152A65112B4D4600C99419.sh
+c000000004B7DB97C0000000000000062
+t1266530684
+s98
+
+NLogicTests-Info.plist
+c000000004B7B15C60000000000000281
+t1266357702
+s641
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288225022#288225022#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcTests.o /Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288225022.822499
+e288225022.823394
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcTests.o
+x/Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m288225022#288225022#0(0"0(0#0#49"/Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m4300885448#1908"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources/i386 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources -c /Users/macboypro/src/cocoa/TipCalc/TipCalcTests.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcTests.o0#
+
+CCompileC build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalcViewController.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalculator.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288224727.592591
+e288224727.702843
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalculator.o
+x/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m288224727#288224727#0(0"0(0#0#58"/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m4300885448#1918"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources/i386 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources -c /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/TipCalculator.o0#
+
+CGenerateDSYMFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest.dSYM /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests
+s288225022.850597
+e288225022.868603
+r1
+xGenerateDSYMFile
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest.dSYM
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/LogicTests.octest.dSYM build/Debug-iphonesimulator/LogicTests.octest/LogicTests288225022#288225022#0(0"0(0#0#91"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests4300885448#386"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest.dSYM0#
+
+CLd /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests normal i386
+s288225022.823518
+e288225022.850500
+r1
+xLd
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests
+xnormal
+xi386
+lSLF07#2@96"Link /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests288225022#288225022#0(0"0(0#0#0"4300885448#1102"    cd /Users/macboypro/src/cocoa/TipCalc    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks -filelist /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/LogicTests.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework SenTestingKit -framework UIKit -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/LogicTests0#
+
+CPhaseScriptExecution "Run Script" /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Script-11152A65112B4D4600C99419.sh
+s288225022.868693
+e288225022.955839
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Script-11152A65112B4D4600C99419.sh
+o/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'
+o/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)
+oobjc[11933]: GC: forcing GC OFF because OBJC_DISABLE_GC is set
+oTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' started at 2010-02-18 14:30:22 -0800
+oTest Suite 'TipCalcTests' started at 2010-02-18 14:30:22 -0800
+oTest Case '-[TipCalcTests testDivideBetweenPeople]' started.
+oTest Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).
+oTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.
+o2010-02-18 14:30:22.949 otest[11933:903] expected amount: inf
+oTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).
+oTest Case '-[TipCalcTests testTipCalculation]' started.
+o2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000
+oTest Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).
+oTest Suite 'TipCalcTests' finished at 2010-02-18 14:30:22 -0800.
+oExecuted 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) seconds
+o
+oTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' finished at 2010-02-18 14:30:22 -0800.
+oExecuted 3 tests, with 0 failures (0 unexpected) in 0.001 (0.003) seconds
+o
+o/Developer/Tools/RunPlatformUnitTests.include:446: note: Passed tests for architecture 'i386' (GC OFF)
+o/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'
+lSLF07#2@36"Run custom shell script 'Run Script'288225022#288225022#1(20@47"Run unit tests for architecture 'i386' (GC OFF)288225022#288225022#1(20@102"Run test suite /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)288225022#288225022#1(20@27"Run test suite TipCalcTests288225022#288225022#3(20@37"Run test case testDivideBetweenPeople288225022#288225022#0(137"Test Case '-[TipCalcTests testDivideBetweenPeople]' started.Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).0(0#0#0"13"0.000 seconds75"Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).23"testDivideBetweenPeople20@41"Run test case testDivideBetweenZeroPeople288225022#288225022#0(207"Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.2010-02-18 14:30:22.949 otest[11933:903] expected amount: infTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).0(0#0#0"13"0.001 seconds79"Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).27"testDivideBetweenZeroPeople20@32"Run test case testTipCalculation288225022#288225022#0(193"Test Case '-[TipCalcTests testTipCalculation]' started.2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).0(0#0#0"13"0.001 seconds70"Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).18"testTipCalculation739"Test Suite 'TipCalcTests' started at 2010-02-18 14:30:22 -0800Test Case '-[TipCalcTests testDivideBetweenPeople]' started.Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.2010-02-18 14:30:22.949 otest[11933:903] expected amount: infTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).Test Case '-[TipCalcTests testTipCalculation]' started.2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).Test Suite 'TipCalcTests' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) seconds0(0#0#23"3 out of 3 tests passed13"0.001 seconds73"Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) seconds12"TipCalcTests1092"Test Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' started at 2010-02-18 14:30:22 -0800Test Suite 'TipCalcTests' started at 2010-02-18 14:30:22 -0800Test Case '-[TipCalcTests testDivideBetweenPeople]' started.Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.2010-02-18 14:30:22.949 otest[11933:903] expected amount: infTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).Test Case '-[TipCalcTests testTipCalculation]' started.2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).Test Suite 'TipCalcTests' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) secondsTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.003) seconds0(0#0#23"3 out of 3 tests passed13"0.001 seconds73"Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.003) seconds87"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)1363"/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)objc[11933]: GC: forcing GC OFF because OBJC_DISABLE_GC is setTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' started at 2010-02-18 14:30:22 -0800Test Suite 'TipCalcTests' started at 2010-02-18 14:30:22 -0800Test Case '-[TipCalcTests testDivideBetweenPeople]' started.Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.2010-02-18 14:30:22.949 otest[11933:903] expected amount: infTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).Test Case '-[TipCalcTests testTipCalculation]' started.2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).Test Suite 'TipCalcTests' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) secondsTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.003) seconds/Developer/Tools/RunPlatformUnitTests.include:446: note: Passed tests for architecture 'i386' (GC OFF)0(0#0#0"0"102"/Developer/Tools/RunPlatformUnitTests.include:446: note: Passed tests for architecture 'i386' (GC OFF)0"1557"/Developer/Tools/RunPlatformUnitTests.include:412: note: Started tests for architectures 'i386'/Developer/Tools/RunPlatformUnitTests.include:419: note: Running tests for architecture 'i386' (GC OFF)objc[11933]: GC: forcing GC OFF because OBJC_DISABLE_GC is setTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' started at 2010-02-18 14:30:22 -0800Test Suite 'TipCalcTests' started at 2010-02-18 14:30:22 -0800Test Case '-[TipCalcTests testDivideBetweenPeople]' started.Test Case '-[TipCalcTests testDivideBetweenPeople]' passed (0.000 seconds).Test Case '-[TipCalcTests testDivideBetweenZeroPeople]' started.2010-02-18 14:30:22.949 otest[11933:903] expected amount: infTest Case '-[TipCalcTests testDivideBetweenZeroPeople]' passed (0.001 seconds).Test Case '-[TipCalcTests testTipCalculation]' started.2010-02-18 14:30:22.949 otest[11933:903] expected total: 6.890000Test Case '-[TipCalcTests testTipCalculation]' passed (0.001 seconds).Test Suite 'TipCalcTests' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.002) secondsTest Suite '/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest(Tests)' finished at 2010-02-18 14:30:22 -0800.Executed 3 tests, with 0 failures (0 unexpected) in 0.001 (0.003) seconds/Developer/Tools/RunPlatformUnitTests.include:446: note: Passed tests for architecture 'i386' (GC OFF)/Developer/Tools/RunPlatformUnitTests.include:462: note: Completed tests for architectures 'i386'0(0#0#0"4300885448#17012"    cd /Users/macboypro/src/cocoa/TipCalc    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER macboypro    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/macboypro/src/cocoa/TipCalc/build    setenv BUILD_ROOT /Users/macboypro/src/cocoa/TipCalc/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH LogicTests.octest    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/TipCalc.dst    setenv DWARF_DSYM_FILE_NAME LogicTests.octest.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH LogicTests.octest/Executables    setenv EXECUTABLE_FOLDER_PATH LogicTests.octest    setenv EXECUTABLE_NAME LogicTests    setenv EXECUTABLE_PATH LogicTests.octest/LogicTests    setenv FILE_LIST /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH LogicTests.octest/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/Developer/Library/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME LogicTests.octest    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE NO    setenv GCC_ENABLE_OBJC_EXCEPTIONS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30000"    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE LogicTests-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH LogicTests.octest/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/TipCalc.dst    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER macboypro    setenv INSTALL_ROOT /tmp/TipCalc.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH LogicTests.octest/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/LogicTests-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal/i386/LogicTests.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_bundle    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1062    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0602    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Objects-normal    setenv OBJROOT /Users/macboypro/src/cocoa/TipCalc/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-framework Foundation -framework SenTestingKit -framework UIKit"    setenv PACKAGE_TYPE com.apple.package-type.wrapper    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH LogicTests.octest/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/macboypro/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/PkgInfo    setenv PKGINFO_PATH LogicTests.octest/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH LogicTests.octest/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH LogicTests.octest/PrivateHeaders    setenv PRODUCT_NAME LogicTests    setenv PRODUCT_SETTINGS_PATH /Users/macboypro/src/cocoa/TipCalc/LogicTests-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.bundle    setenv PROFILING_CODE NO    setenv PROJECT TipCalc    setenv PROJECT_DERIVED_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/DerivedSources    setenv PROJECT_DIR /Users/macboypro/src/cocoa/TipCalc    setenv PROJECT_FILE_PATH /Users/macboypro/src/cocoa/TipCalc/TipCalc.xcodeproj    setenv PROJECT_NAME TipCalc    setenv PROJECT_TEMP_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build    setenv PUBLIC_HEADERS_FOLDER_PATH LogicTests.octest/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH LogicTests.octest/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk    setenv SDK_NAME iphonesimulator3.1.3    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH LogicTests.octest/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH LogicTests.octest/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/macboypro/src/cocoa/TipCalc    setenv SRCROOT /Users/macboypro/src/cocoa/TipCalc    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE non-global    setenv SYMBOL_REPOSITORY_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/SymbolRepositories    setenv SYMROOT /Users/macboypro/src/cocoa/TipCalc/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME LogicTests    setenv TARGET_BUILD_DIR /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator    setenv TARGET_NAME LogicTests    setenv TARGET_TEMP_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build    setenv TEMP_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build    setenv TEMP_FILES_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build    setenv TEMP_FILE_DIR /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build    setenv TEMP_ROOT /Users/macboypro/src/cocoa/TipCalc/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH LogicTests.octest    setenv UNSTRIPPED_PRODUCT NO    setenv USER macboypro    setenv USER_APPS_DIR /Users/macboypro/Applications    setenv USER_LIBRARY_DIR /Users/macboypro/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH LogicTests.octest/version.plist    setenv VERSION_INFO_BUILDER macboypro    setenv VERSION_INFO_FILE LogicTests_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:LogicTests  PROJECT:TipCalc-\""    setenv WRAPPER_EXTENSION octest    setenv WRAPPER_NAME LogicTests.octest    setenv WRAPPER_SUFFIX .octest    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0321    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphonesimulator/LogicTests.build/Script-11152A65112B4D4600C99419.sh0#
+
+CProcessInfoPlistFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/Info.plist LogicTests-Info.plist
+s288223484.154274
+e288223484.170510
+r1
+xProcessInfoPlistFile
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/Info.plist
+xLogicTests-Info.plist
+lSLF07#2@29"Process LogicTests-Info.plist288223484#288223484#0(0"0(0#0#56"/Users/macboypro/src/cocoa/TipCalc/LogicTests-Info.plist4300885448#381"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LogicTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest/Info.plist0#
+
+CTouch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest
+s288225022.955907
+e288225022.958028
+r1
+xTouch
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest
+lSLF07#2@86"Touch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest288225022#288225022#0(0"0(0#0#0"4300885448#276"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphonesimulator/LogicTests.octest0#
+

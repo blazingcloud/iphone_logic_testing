@@ -1,0 +1,352 @@
+TTipCalc
+v7
+r0
+t288213880.522486
+cCheck dependencies
+cCpResource build/Debug-iphoneos/TipCalc.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/Info.plist TipCalc-Info.plist
+cCompileXIB /Users/macboypro/src/cocoa/TipCalc/MainWindow.xib
+cCompileXIB /Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib
+cProcessPCH /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch.gch TipCalc_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/main.o /Users/macboypro/src/cocoa/TipCalc/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcAppDelegate.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcViewController.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalculator.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc normal armv6
+cGenerateDSYMFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app.dSYM /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc
+cProcessProductPackaging "/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision" /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision
+cTouch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent
+cCodeSign /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk
+c000000004B2FA6BF0000000000000110
+t1261414079
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+c000000004B2B3B9F00000000000000DD
+t1261124511
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+c000000004B2B3B9F00000000000001E5
+t1261124511
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B537900000000005F4900
+t1261130617
+s6244608
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B551F0000000000501370
+t1261131039
+s5247856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B54F40000000000001355
+t1261130996
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61610000000000000788
+t1261134177
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B63DA0000000001B3F450
+t1261134810
+s28570704
+
+N/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision
+c000000004B67117A0000000000001FB9
+t1265045882
+s8121
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.h
+c000000004B7B0A1000000000000001E0
+t1266354704
+s480
+i<UIKit/UIKit.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m
+c000000004B7B0A10000000000000026B
+t1266354704
+s619
+i"TipCalcAppDelegate.h"
+i"TipCalcViewController.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.h
+c000000004B7B0A1000000000000000EF
+t1266354704
+s239
+i<UIKit/UIKit.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m
+c000000004B7B0A1000000000000005B8
+t1266354704
+s1464
+i"TipCalcViewController.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.h
+c000000004B7B30E700000000000000E1
+t1266364647
+s225
+i<Foundation/Foundation.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m
+c000000004B7B30E700000000000000CE
+t1266364647
+s206
+i"TipCalculator.h"
+
+N/Users/macboypro/src/cocoa/TipCalc/MainWindow.xib
+c000000004B7B0A10000000000000244E
+t1266354704
+s9294
+
+N/Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib
+c000000004B7B0B5700000000000040C2
+t1266355031
+s16578
+
+N/Users/macboypro/src/cocoa/TipCalc/TipCalc_Prefix.pch
+c000000004B7B0A1000000000000000B7
+t1266354704
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+t1266521080
+s374
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app.dSYM
+t1266521080
+s102
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/Info.plist
+t1266521078
+s630
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/MainWindow.nib
+t1266521079
+s1495
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/PkgInfo
+t1266521078
+s8
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/ResourceRules.plist
+t1266521078
+s485
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc
+t1266521080
+s16392
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalcViewController.nib
+t1266521079
+s1694
+
+N/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision
+t1266521080
+s8121
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalc.LinkFileList
+c000000004B7D93F600000000000001E8
+t1266521078
+s488
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcAppDelegate.o
+t1266521080
+s40500
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcViewController.o
+t1266521080
+s29500
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalculator.o
+t1266521080
+s5140
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/main.o
+t1266521080
+s6540
+
+N/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent
+t1266521080
+s320
+
+N/Users/macboypro/src/cocoa/TipCalc/main.m
+c000000004B7B0A10000000000000016A
+t1266354704
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch.gch
+t1266521080
+s7876792
+
+NTipCalc-Info.plist
+c000000004B7B0A10000000000000038D
+t1266354704
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288213878#288213878#0(0"0(0#1#0"4300885448#0"0#
+
+CCodeSign /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+s288213880.384121
+e288213880.522339
+r1
+xCodeSign
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/TipCalc.app288213880#288213880#0(0"0(0#0#67"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app4300885448#629"    cd /Users/macboypro/src/cocoa/TipCalc    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Sarah Allen (SHVR3B65HC)" --resource-rules=/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/ResourceRules.plist --entitlements /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app0#
+
+CCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcAppDelegate.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288213880.182426
+e288213880.245276
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcAppDelegate.o
+x/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m288213880#288213880#0(0"0(0#0#63"/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m4300885448#1720"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources/armv6 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources -include /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch -c /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcAppDelegate.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcAppDelegate.o0#
+
+CCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcViewController.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288213880.219612
+e288213880.271112
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcViewController.o
+x/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m288213880#288213880#0(0"0(0#0#66"/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m4300885448#1726"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources/armv6 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources -include /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch -c /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalcViewController.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalcViewController.o0#
+
+CCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalculator.o /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288213880.245369
+e288213880.281511
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalculator.o
+x/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m288213880#288213880#0(0"0(0#0#58"/Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m4300885448#1710"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources/armv6 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources -include /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch -c /Users/macboypro/src/cocoa/TipCalc/Classes/TipCalculator.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalculator.o0#
+
+CCompileC build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/main.o /Users/macboypro/src/cocoa/TipCalc/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288213880.181604
+e288213880.219514
+r1
+xCompileC
+xbuild/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/main.o
+x/Users/macboypro/src/cocoa/TipCalc/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/macboypro/src/cocoa/TipCalc/main.m288213880#288213880#0(0"0(0#0#41"/Users/macboypro/src/cocoa/TipCalc/main.m4300885448#1684"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources/armv6 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources -include /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch -c /Users/macboypro/src/cocoa/TipCalc/main.m -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/macboypro/src/cocoa/TipCalc/MainWindow.xib
+s288213878.888161
+e288213879.516001
+r1
+xCompileXIB
+x/Users/macboypro/src/cocoa/TipCalc/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288213878#288213879#0(0"0(0#0#49"/Users/macboypro/src/cocoa/TipCalc/MainWindow.xib4300885448#456"    cd /Users/macboypro/src/cocoa/TipCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/MainWindow.nib /Users/macboypro/src/cocoa/TipCalc/MainWindow.xib0#
+
+CCompileXIB /Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib
+s288213878.888651
+e288213879.747982
+r1
+xCompileXIB
+x/Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib
+lSLF07#2@36"CompileXIB TipCalcViewController.xib288213878#288213879#0(0"0(0#0#60"/Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib4300885448#478"    cd /Users/macboypro/src/cocoa/TipCalc    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalcViewController.nib /Users/macboypro/src/cocoa/TipCalc/TipCalcViewController.xib0#
+
+CCpResource build/Debug-iphoneos/TipCalc.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+s288213878.882979
+e288213878.888111
+r1
+xCpResource
+xbuild/Debug-iphoneos/TipCalc.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist288213878#288213878#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist3698387016064395264#474"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/ResourceRules.plist /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app0#
+
+CGenerateDSYMFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app.dSYM /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc
+s288213880.345986
+e288213880.360062
+r1
+xGenerateDSYMFile
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app.dSYM
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/TipCalc.app.dSYM build/Debug-iphoneos/TipCalc.app/TipCalc288213880#288213880#0(0"0(0#0#75"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc4300885448#350"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app.dSYM0#
+
+CLd /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc normal armv6
+s288213880.281723
+e288213880.345906
+r1
+xLd
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc
+xnormal
+xarmv6
+lSLF07#2@80"Link /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc288213880#288213880#0(0"0(0#0#0"4300885448#875"    cd /Users/macboypro/src/cocoa/TipCalc    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -L/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -filelist /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/Objects-normal/armv6/TipCalc.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.1.3 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/TipCalc0#
+
+CProcessInfoPlistFile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/Info.plist TipCalc-Info.plist
+s288213878.883601
+e288213878.886206
+r1
+xProcessInfoPlistFile
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/Info.plist
+xTipCalc-Info.plist
+lSLF07#2@26"Process TipCalc-Info.plist288213878#288213878#0(0"0(0#0#53"/Users/macboypro/src/cocoa/TipCalc/TipCalc-Info.plist4300885448#546"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TipCalc-Info.plist -genpkginfo /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/ResourceRules.plist -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/Info.plist0#
+
+CProcessPCH /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch.gch TipCalc_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s288213879.748192
+e288213880.181512
+r1
+xProcessPCH
+x/var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch.gch
+xTipCalc_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile TipCalc_Prefix.pch288213879#288213880#0(0"0(0#0#53"/Users/macboypro/src/cocoa/TipCalc/TipCalc_Prefix.pch4300885448#1586"    cd /Users/macboypro/src/cocoa/TipCalc    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-generated-files.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-own-target-headers.hmap -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-all-target-headers.hmap -iquote /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc-project-headers.hmap -F/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos -I/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/include -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources/armv6 -I/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/DerivedSources -c /Users/macboypro/src/cocoa/TipCalc/TipCalc_Prefix.pch -o /var/folders/eU/eUEKvCZ6HxKkSRg1PWpGzE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TipCalc_Prefix-fzrtxqniwhankwgroegqqvtyutcy/TipCalc_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision" /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision
+s288213880.360153
+e288213880.361134
+r1
+xProcessProductPackaging
+x/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision
+lSLF07#2@196"ProcessProductPackaging "/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision" build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision288213880#288213880#0(0"0(0#0#92"/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision4300885448#419"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/macboypro/Library/MobileDevice/Provisioning Profiles/DF6C35CC-619B-4169-AAEA-467B7FED3568.mobileprovision" -o /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent
+s288213880.368564
+e288213880.384053
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist
+x/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent
+lSLF07#2@177"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent288213880#288213880#0(0"0(0#0#97"/Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent4300885448#426"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.3.sdk/Entitlements.plist -entitlements -format xml -o /Users/macboypro/src/cocoa/TipCalc/build/TipCalc.build/Debug-iphoneos/TipCalc.build/TipCalc.xcent0#
+
+CTouch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+s288213880.361178
+e288213880.368482
+r1
+xTouch
+x/Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app
+lSLF07#2@73"Touch /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app288213880#288213880#0(0"0(0#0#0"4300885448#256"    cd /Users/macboypro/src/cocoa/TipCalc    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macboypro/src/cocoa/TipCalc/build/Debug-iphoneos/TipCalc.app0#
+
